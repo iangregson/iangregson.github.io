@@ -1,0 +1,28 @@
+{
+  "name": "iangregson.github.io",
+  "version": "1.0.0",
+  "description": "My github pages homepage",
+  "main": "index.html",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/iangregson/iangregson.github.io.git"
+  },
+  "keywords": [
+    "Personal",
+    "Resume",
+    "CV"
+  ],
+  "author": "Ian Gregson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iangregson/iangregson.github.io/issues"
+  },
+  "homepage": "https://github.com/iangregson/iangregson.github.io#readme",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "bulma": "^0.1.2"
+  }
+}
