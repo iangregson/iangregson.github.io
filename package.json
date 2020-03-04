@@ -1,18 +1,18 @@
 {
   "name": "iangregson.github.io",
-  "version": "1.0.0",
-  "description": "My github pages homepage",
+  "version": "2.0.0",
+  "description": "Github pages homepage",
   "main": "index.html",
   "scripts": {
+    "build": "npx tailwindcss build css/styles.css -o css/tailwind.css"
   },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/iangregson/iangregson.github.io.git"
   },
   "keywords": [
-    "Personal",
-    "Resume",
-    "CV"
+    "Personal website",
+    "Tailwind CSS"
   ],
   "author": "Ian Gregson",
   "license": "MIT",
@@ -21,8 +21,7 @@
   },
   "homepage": "https://github.com/iangregson/iangregson.github.io#readme",
   "devDependencies": {
+    "tailwindcss": "^1.2.0"
   },
-  "dependencies": {
-    "bulma": "^0.1.2"
-  }
+  "dependencies": {}
 }
