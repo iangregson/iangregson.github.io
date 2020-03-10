@@ -1,6 +1,9 @@
 # iangregson.xyz
-My personal website
+
+Personal landing page with links to places I'm available online.
 
 ### Thanks to
 
-* http://www.heropatterns.com/
+* [Tailwind CSS](https://tailwindcss.com/)
+* [Zondicons](https://www.zondicons.com/)
+* [Simple Icons](http://simpleicons.org/)

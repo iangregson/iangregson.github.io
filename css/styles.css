@@ -3,3 +3,30 @@
 @tailwind components;
 
 @tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
+
+a {
+  @apply text-purple;
+}
+
+main.centered-view {
+  @apply flex;
+  @apply flex-col;
+  @apply flex-grow;
+  @apply items-center;
+  @apply justify-center;
+}
+
+a:hover, a:active {
+  @apply text-cyan;
+}
+
+svg.link-icon {
+  @apply h-6;
+  @apply w-6;
+  @apply block;
+  @apply m-auto;
+  @apply fill-current;
+  @apply text-white;
+}
